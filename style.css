@@ -1,5 +1,6 @@
 div {
-  width: 400px;
-  height: 300px;
+  width: 100%;
+  max-width: 400px;
+  height: 70vh;
   background-color : red;
 }
